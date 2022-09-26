@@ -6,7 +6,7 @@
 
 
 <h3>Para Clona o Projeto e Roda na sua maquina Basta <h3/>
-## 1 = git clone 
+## 1 = git clone https://github.com/dvamleite/Projeto-Happy-NLW3_Web.git <br>
 ## 2 = abri o terminal na pasta que vai Gera <br>
 ## 3 = npm install<br>
 ## 4 = npm start<br>
